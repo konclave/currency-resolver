@@ -1,0 +1,31 @@
+{
+  "name": "currency-resolver",
+  "version": "0.0.0",
+  "description": "provides a way to lookup currency codes via symbol or look up symbols via currency code",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": {
+    "name": "Chad Scira",
+    "email": "chadvscira@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/icodeforlove/currency-resolver.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vows": "~0.7.0",
+    "grunt": "~0.4.5",
+    "webpack": "~1.3.2-beta9",
+    "webpack-dev-server": "~1.4.7",
+    "grunt-webpack": "~1.0.7",
+    "grunt-contrib-uglify": "~0.5.1",
+    "grunt-banner": "~0.2.3",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-cli": "~0.1.13",
+    "grunt-jasmine-node": "^0.3.0"
+  }
+}
