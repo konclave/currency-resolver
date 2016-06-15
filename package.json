@@ -1,6 +1,6 @@
 {
   "name": "currency-resolver",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "provides a way to lookup currency codes via symbol or look up symbols via currency code",
   "main": "index.js",
   "scripts": {

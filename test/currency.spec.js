@@ -69,6 +69,7 @@ describe('General', function() {
 		expect(currencyResolver.getCode('฿')).toEqual('THB');
 		expect(currencyResolver.getCode('TL')).toEqual('TRY');
 		expect(currencyResolver.getCode('$')).toEqual('USD');
+		expect(currencyResolver.getCode('RMB')).toEqual('CNY');
 	});
 
 	it('can get native symbols', function() {

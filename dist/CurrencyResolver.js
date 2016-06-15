@@ -1,5 +1,5 @@
 /**
- * CurrencyResolver.js v0.0.0
+ * CurrencyResolver.js v0.0.1
  */
 var CurrencyResolver =
 /******/ (function(modules) { // webpackBootstrap
@@ -411,6 +411,15 @@ var CurrencyResolver =
 		},
 		{
 			'symbol': 'CN¥',
+			'name': 'Chinese Yuan',
+			'symbol_native': 'CN¥',
+			'decimal_digits': 2,
+			'rounding': 0,
+			'code': 'CNY',
+			'name_plural': 'Chinese yuan'
+		},
+		{
+			'symbol': 'RMB',
 			'name': 'Chinese Yuan',
 			'symbol_native': 'CN¥',
 			'decimal_digits': 2,

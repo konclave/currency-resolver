@@ -369,6 +369,15 @@ var currencies = [
 		'name_plural': 'Chinese yuan'
 	},
 	{
+		'symbol': 'RMB',
+		'name': 'Chinese Yuan',
+		'symbol_native': 'CN¥',
+		'decimal_digits': 2,
+		'rounding': 0,
+		'code': 'CNY',
+		'name_plural': 'Chinese yuan'
+	},
+	{
 		'symbol': 'CO$',
 		'name': 'Colombian Peso',
 		'symbol_native': '$',
