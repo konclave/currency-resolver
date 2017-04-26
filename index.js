@@ -983,7 +983,7 @@ var currencies = [
 	{
 		'symbol': 'RUR',
 		'name': 'Old Russian Ruble',
-		'symbol_native': 'RUR',
+		'symbol_native': 'руб.',
 		'decimal_digits': 2,
 		'rounding': 0,
 		'code': 'RUR',
@@ -992,7 +992,7 @@ var currencies = [
 	{
 		'symbol': 'RUB',
 		'name': 'Russian Ruble',
-		'symbol_native': 'руб.',
+		'symbol_native': '₽',
 		'decimal_digits': 2,
 		'rounding': 0,
 		'code': 'RUB',
