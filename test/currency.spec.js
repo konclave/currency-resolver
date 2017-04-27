@@ -96,7 +96,7 @@ describe('General', function() {
 		expect(currencyResolver.getSymbolNative('PKR')).toEqual('₨');
 		expect(currencyResolver.getSymbolNative('PHP')).toEqual('₱');
 		expect(currencyResolver.getSymbolNative('PLN')).toEqual('zł');
-		expect(currencyResolver.getSymbolNative('RUB')).toEqual('руб.');
+		expect(currencyResolver.getSymbolNative('RUB')).toEqual('₽');
 		expect(currencyResolver.getSymbolNative('SGD')).toEqual('$');
 		expect(currencyResolver.getSymbolNative('ZAR')).toEqual('R');
 		expect(currencyResolver.getSymbolNative('SEK')).toEqual('kr');
